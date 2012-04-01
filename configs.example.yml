@@ -1,0 +1,10 @@
+
+slimtimer:
+  url: 
+    base: http://slimtimer.com/
+    login: users/token
+    task_list: users/user_id/tasks
+  email: your@email
+  password: yoursecretpassword
+  api_key: your_apikey_got_on_slimtimer.com/help/api
+
